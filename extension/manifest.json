@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Truth Tracker",
+    "description": "Extension for identifying media bias",
+    "version": "1.0",
+    "action": {
+      "default_popup": "hello.html",
+      "default_icon": "hello_extensions.png"
+    }
+}
